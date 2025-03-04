@@ -4,6 +4,7 @@
   "versionSystem": "10.9.0",
   "nomeEmpresa": "Whaticket Saas",
   "private": true,
+  "config": { "prefer-offline": "true" },
   "dependencies": {
     "@date-io/date-fns": "^2.14.0",
     "@date-io/moment": "^3.0.0",
